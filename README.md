@@ -1,25 +1,36 @@
 # 🧠 Machine Learning Encyclopedia
 
-> **A PhD-level, practice-first reference for every ML algorithm — built in public, one algorithm at a time.**
-
-![Progress](https://img.shields.io/badge/algorithms%20completed-0%20%2F%20133-brightgreen)
-![Status](https://img.shields.io/badge/status-actively%20learning-blue)
-![Level](https://img.shields.io/badge/depth-PhD%20level-purple)
-![Author](https://img.shields.io/badge/author-Sanjay%20S-orange)
+> **A structured Machine Learning knowledge base for understanding algorithms, their use cases, mathematical foundations, implementations, and real-world applications.**
 
 **GitHub:** [github.com/sanjay5656](https://github.com/sanjay5656) &nbsp;|&nbsp;
 **Portfolio:** [suvsan-mldev.netlify.app](https://suvsan-mldev.netlify.app)
 
 ---
 
-## 📌 What This Repository Is
+## 📌 Why I Created This Repository
 
-This is not a tutorial collection. This is a **personal mastery system** — every algorithm studied at PhD depth, implemented from scratch, applied on real data, and documented so clearly that a complete beginner could learn from it.
+Machine Learning contains hundreds of algorithms, and new algorithms continue to be developed every year.
 
-**Three purposes:**
-1. **Personal reference** — quick review before interviews or projects
-2. **Teaching resource** — every README is a lesson plan for YouTube or mentoring
-3. **Public proof of depth** — not just "I used sklearn", but "I understand why it works"
+My goal is not to master every algorithm in existence.
+
+**Instead, I want to:**
+1. Build strong expertise in the major algorithms used across industry and research.
+2. Maintain a structured reference system for the broader Machine Learning landscape.
+3. Understand which algorithms are suitable for different types of real-world problems.
+4. Create a long-term knowledge base that I can revisit during projects, interviews, research, and future learning.
+
+When solving a new problem, the challenge is often not writing code—it is knowing which approach to consider.
+
+**This repository helps me answer questions such as:**
+
+1. Is this a regression, classification, clustering, or forecasting problem?
+2. Which algorithms are commonly used for this problem type?
+3. What are the strengths and limitations of each approach?
+4. Which algorithm should I study or experiment with next?
+
+Over time, this repository will grow into a personal Machine Learning encyclopedia containing algorithm summaries, mathematical intuition, implementations, practical examples, and learning notes.
+
+
 
 ---
 
@@ -35,13 +46,46 @@ This is not a tutorial collection. This is a **personal mastery system** — eve
 | **4. Real dataset** | Apply on a real, messy dataset — evaluate properly with multiple metrics | Clean synthetic data is a lie |
 | **5. Teach it back** | Write the README as if teaching someone else — where I stumble = my gaps | The Feynman technique — if you can't explain it, you don't understand it |
 
-**Daily learning schedule:**
-```
-20 min  →  read / watch concept (intuition only)
-40 min  →  implement from scratch in NumPy
-20 min  →  apply with sklearn on real dataset
-10 min  →  write the README summary + key insight
-```
+**🚀 Current Focus (Major Algorithms)**
+
+These are the algorithms I am currently prioritizing for deep understanding:
+
+**Supervised Learning:**
+
+Linear Regression
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+Support Vector Machine (SVM)
+
+XGBoost
+
+**Unsupervised Learning**
+
+K-Means Clustering
+
+PCA
+
+DBSCAN
+
+**Ensemble Learning**
+
+Gradient Boosting
+
+LightGBM
+
+CatBoost
+
+**Anomaly Detection**
+
+Isolation Forest
+
+The remaining algorithms in this repository serve as a categorized reference map that helps identify potential approaches when encountering new problem statements in the future.
+
 
 ---
 
